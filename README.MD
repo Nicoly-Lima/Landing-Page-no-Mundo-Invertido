@@ -10,6 +10,6 @@ Explore o Mundo Invertido! Este projeto é uma impressionante página de destino
 
 ## **Acessar Página**
 
-Clique no shield abaixo para acessar a página:
-[![Website](https://img.shields.io/badge/Website-Access-green?style=for-the-badge)](http://seu-link.com)
+Clique no link abaixo para acessar a página:
+https://nicoly-lima.github.io/Landing-Page-no-Mundo-Invertido/
 
